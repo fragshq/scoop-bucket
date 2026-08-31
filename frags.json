@@ -1,5 +1,5 @@
 {
-    "version": "cli/v1.0.0-rc8",
+    "version": "v1.0.0-rc8",
     "architecture": {
         "64bit": {
             "url": "https://github.com/fragshq/frags/releases/download/cli%2Fv1.0.0-rc8/frags_cli/v1.0.0-rc8_windows_amd64.zip",
