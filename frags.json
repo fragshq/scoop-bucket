@@ -1,0 +1,22 @@
+{
+    "version": "cli/v1.0.0-rc8",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/fragshq/frags/releases/download/cli%2Fv1.0.0-rc8/frags_cli/v1.0.0-rc8_windows_amd64.zip",
+            "bin": [
+                "frags.exe"
+            ],
+            "hash": "b66c25bd2ac89f037bba739239a848bef3b50531409db64cef9f2b87f3b370f1"
+        },
+        "arm64": {
+            "url": "https://github.com/fragshq/frags/releases/download/cli%2Fv1.0.0-rc8/frags_cli/v1.0.0-rc8_windows_arm64.zip",
+            "bin": [
+                "frags.exe"
+            ],
+            "hash": "20383ef6dd01a63e23c75e619337783c63e4d97e1163570a6e7f39cb5adc630b"
+        }
+    },
+    "homepage": "https://github.com/fragshq/frags",
+    "license": "AGPL",
+    "description": "FRAGS CLI"
+}
