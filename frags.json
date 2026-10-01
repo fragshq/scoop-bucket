@@ -1,19 +1,19 @@
 {
-    "version": "v1.0.0-rc8",
+    "version": "cli/v1.0.0-rc9",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/fragshq/frags/releases/download/cli%2Fv1.0.0-rc8/frags_cli.v1.0.0-rc8_windows_amd64.zip",
+            "url": "https://github.com/fragshq/frags/releases/download/cli%2Fv1.0.0-rc9/frags_cli/v1.0.0-rc9ccli/v1.0.0-rc9lcli/v1.0.0-rc9icli/v1.0.0-rc9/cli/v1.0.0-rc9_windows_amd64.zip",
             "bin": [
                 "frags.exe"
             ],
-            "hash": "b66c25bd2ac89f037bba739239a848bef3b50531409db64cef9f2b87f3b370f1"
+            "hash": "5d2812007d0a4d00b50eec164708d8406b659cbf4611abcefee8cedb6ceaf5b5"
         },
         "arm64": {
-            "url": "https://github.com/fragshq/frags/releases/download/cli%2Fv1.0.0-rc8/frags_cli.v1.0.0-rc8_windows_arm64.zip",
+            "url": "https://github.com/fragshq/frags/releases/download/cli%2Fv1.0.0-rc9/frags_cli/v1.0.0-rc9ccli/v1.0.0-rc9lcli/v1.0.0-rc9icli/v1.0.0-rc9/cli/v1.0.0-rc9_windows_arm64.zip",
             "bin": [
                 "frags.exe"
             ],
-            "hash": "20383ef6dd01a63e23c75e619337783c63e4d97e1163570a6e7f39cb5adc630b"
+            "hash": "a8cef947bab3d5f3782f1b507552b341ce8f7b12c976ea6028dc0529dd71e5b1"
         }
     },
     "homepage": "https://github.com/fragshq/frags",
