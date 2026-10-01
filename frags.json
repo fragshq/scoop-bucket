@@ -6,14 +6,14 @@
             "bin": [
                 "frags.exe"
             ],
-            "hash": "5d2812007d0a4d00b50eec164708d8406b659cbf4611abcefee8cedb6ceaf5b5"
+            "hash": "175d2ab6fd6c78cdffcd75491476f60d31b0d3e4f4c6445a7ff0741d9c5bb09c"
         },
         "arm64": {
             "url": "https://github.com/fragshq/frags/releases/download/cli%2Fv1.0.0-rc9/frags_cli/v1.0.0-rc9ccli/v1.0.0-rc9lcli/v1.0.0-rc9icli/v1.0.0-rc9/cli/v1.0.0-rc9_windows_arm64.zip",
             "bin": [
                 "frags.exe"
             ],
-            "hash": "a8cef947bab3d5f3782f1b507552b341ce8f7b12c976ea6028dc0529dd71e5b1"
+            "hash": "5af266c5ac6d0be578b09144e52cacbd3cbc7e90630e55e636694af783e16642"
         }
     },
     "homepage": "https://github.com/fragshq/frags",
